@@ -1,0 +1,46 @@
+.main-title{
+    background-color:rgb(248, 155, 170);
+    color:white;
+    padding: 5px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 120%;
+    display:flex;
+}
+
+.main-title a{
+    color:white;
+    text-decoration: none;
+
+}
+.movie-front{
+    color:rgb(240, 74, 74);
+    padding: 10px;
+    font-size: 40px;
+    border: solid rgb(248, 155, 170) 3px;
+    margin: 5px;
+    display: flex;   
+}
+
+ul li{
+    color: white;
+    margin-bottom: 10px;
+}
+
+.container{
+    display:flex;
+}
+
+.navigation{
+    background-color: rgb(248, 155, 170);
+    padding-right: 10px;
+    display:flex;
+}
+
+.movie-body{
+    padding-left: 15px;
+}
+.movie-title{
+    color:rgb(240, 74, 74);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:110%;
+}
